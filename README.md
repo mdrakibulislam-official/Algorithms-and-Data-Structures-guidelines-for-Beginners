@@ -26,6 +26,7 @@ Storing a character array into RAM. Each character takes 8 bits of space, 1 byte
 
 Each character occupies 1 byte of space, hence the addresses are 1 byte apart.
 the size or the type of data we store doesn't really matter, as long as the address is incremented relative to the size of the data type. Most of the time this knowledge is abstracted away from us as developers, but it is relevant to understand many algorithms and data structures. It is also extremely important in system design.
+    
     2. Static Arrays.
     3. Dynamic Arrays.
     4. Stacks.
